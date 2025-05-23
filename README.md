@@ -53,4 +53,5 @@ To uncover usage trends between **casual riders** and **annual members**, and ge
 
 ## 📬 Contact
 
-_Connect with me on [LinkedIn](https://www.linkedin.com/) or check out more of my work at [your GitHub profile link]._
+_Connect with me on [LinkedIn](www.linkedin.com/in/charles-gray-883821111)
+or check out more of my work at [https://github.com/Gray-Charles]._
